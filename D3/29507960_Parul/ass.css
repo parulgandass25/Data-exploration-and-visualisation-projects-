@@ -1,0 +1,15 @@
+.svgCanvas{
+    color:cyan;
+    border:solid 3px;
+}
+
+h1,h2{
+    color:deeppink;
+    font-family:fantasy
+}
+
+div.tooltip {	
+    position: absolute;				
+    background: lightpink;			
+    pointer-events: none;	
+}
